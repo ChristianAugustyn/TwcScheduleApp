@@ -1,0 +1,12 @@
+{
+  "name": "TwcScheduleApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian <chrisaug@rogers.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "read-excel-file": "^5.2.6"
+  }
+}
